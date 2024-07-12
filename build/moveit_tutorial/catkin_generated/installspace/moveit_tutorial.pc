@@ -1,0 +1,8 @@
+prefix=/home/ece/ros_ws/install
+
+Name: moveit_tutorial
+Description: Description of moveit_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
